@@ -1,0 +1,20 @@
+{
+	"configurations": [
+		{
+			"name": "ChaseTagEditor Win64 Development (ChaseTag)",
+			"intelliSenseMode": "msvc-x64",
+			"compileCommands": "C:\\Users\\Ellai.DESKTOP-1SQB5AT\\Documents\\projects\\ChaseTag\\ChaseTag\\.vscode\\compileCommands_ChaseTag.json",
+			"includePath": [
+				"${workspaceFolder}\\Plugins**",
+				"${workspaceFolder}\\Source**",
+				"${workspaceFolder}\\Intermediate**"
+			]
+		},
+		{
+			"name": "Win32",
+			"intelliSenseMode": "msvc-x64",
+			"compileCommands": "C:\\Users\\Ellai.DESKTOP-1SQB5AT\\Documents\\projects\\ChaseTag\\ChaseTag\\.vscode\\compileCommands_Default.json"
+		}
+	],
+	"version": 4
+}

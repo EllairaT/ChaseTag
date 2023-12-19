@@ -1,0 +1,27 @@
+[
+	{
+		"file": "C:\\Users\\Ellai.DESKTOP-1SQB5AT\\Documents\\projects\\ChaseTag\\ChaseTag\\Source\\ChaseTag\\ChaseTag.Build.cs",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Ellai.DESKTOP-1SQB5AT\\Documents\\projects\\ChaseTag\\ChaseTag\\.vscode\\compileCommands_Default\\ChaseTag.211.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Ellai.DESKTOP-1SQB5AT\\Documents\\projects\\ChaseTag\\ChaseTag\\Source\\ChaseTag\\ChaseTag.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Ellai.DESKTOP-1SQB5AT\\Documents\\projects\\ChaseTag\\ChaseTag\\.vscode\\compileCommands_Default\\ChaseTag.211.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Ellai.DESKTOP-1SQB5AT\\Documents\\projects\\ChaseTag\\ChaseTag\\Source\\ChaseTag\\ChaseTag.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Ellai.DESKTOP-1SQB5AT\\Documents\\projects\\ChaseTag\\ChaseTag\\.vscode\\compileCommands_Default\\ChaseTag.211.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Ellai.DESKTOP-1SQB5AT\\Documents\\projects\\ChaseTag\\ChaseTag\\Source\\ChaseTag\\ChaseTagGameModeBase.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Ellai.DESKTOP-1SQB5AT\\Documents\\projects\\ChaseTag\\ChaseTag\\.vscode\\compileCommands_Default\\ChaseTag.211.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Ellai.DESKTOP-1SQB5AT\\Documents\\projects\\ChaseTag\\ChaseTag\\Source\\ChaseTag\\ChaseTagGameModeBase.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\Ellai.DESKTOP-1SQB5AT\\Documents\\projects\\ChaseTag\\ChaseTag\\.vscode\\compileCommands_Default\\ChaseTag.211.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	}
+]
